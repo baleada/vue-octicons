@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/baleada/vue-octicons.git"
+    "url": "git+https://github.com/baleada/vue-octicons.git"
   },
   "keywords": [
     "baleada",
@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/baleada/vue-octicons/issues"
+    "url": "https://github.com/baleada/vue-octicons/issues"
   },
   "homepage": "https://baleada.netlify.com",
   "devDependencies": {
